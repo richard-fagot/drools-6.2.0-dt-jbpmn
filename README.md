@@ -12,5 +12,5 @@ Tout se passe dans *eclipse* et même s'il s'agit ici d'un projet *maven* il ne 
     - Name : Drools,
     - Local... > sélectionnner le répertoire org.drools.updatesite > OK > OK,
     - Sélectionner tous les plugins et installer ;
-5. Cloner le projet et l'importer dans *Eclipse* ;
+5. Cloner le projet et l'importer dans *Eclipse* en tant que projet *Maven* ;
 6. Exécuter la méthoode `rfagot.examples.drools_6._dt_jbpmn.Main.main()`.
