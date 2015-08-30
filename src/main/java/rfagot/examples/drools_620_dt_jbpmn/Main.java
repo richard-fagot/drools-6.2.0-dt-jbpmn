@@ -1,13 +1,13 @@
-package rfagot.examples.drools_6._dt_jbpmn;
+package rfagot.examples.drools_620_dt_jbpmn;
 
 import java.util.LinkedList;
 import java.util.List;
 
 import org.kie.api.builder.ReleaseId;
 
-import rfagot.examples.drools_6._dt_jbpmn.model.Boxer;
-import rfagot.examples.drools_6._dt_jbpmn.ruleutils.RuleException;
-import rfagot.examples.drools_6._dt_jbpmn.ruleutils.RuleSession;
+import rfagot.examples.drools_620_dt_jbpmn.model.Boxer;
+import rfagot.examples.drools_620_dt_jbpmn.ruleutils.RuleException;
+import rfagot.examples.drools_620_dt_jbpmn.ruleutils.RuleSession;
 
 public class Main {
 

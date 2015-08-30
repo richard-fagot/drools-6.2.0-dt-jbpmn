@@ -1,4 +1,4 @@
-package rfagot.examples.drools_6._dt_jbpmn.model;
+package rfagot.examples.drools_620_dt_jbpmn.model;
 
 public enum CategoriePoids {
 	Moustique,

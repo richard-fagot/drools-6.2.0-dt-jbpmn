@@ -1,4 +1,4 @@
-package rfagot.examples.drools_6._dt_jbpmn.ruleutils;
+package rfagot.examples.drools_620_dt_jbpmn.ruleutils;
 
 
 @SuppressWarnings("serial")
