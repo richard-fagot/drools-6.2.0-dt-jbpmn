@@ -6,6 +6,7 @@ public class Boxer {
 	private int poids;
 	private CategorieAge ageCat;
 	private CategoriePoids poidsCat;
+	
 	public int getAge() {
 		return age;
 	}
